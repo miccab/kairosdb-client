@@ -1,0 +1,7 @@
+duration 1457808488000 2.34 app=bla
+duration 1457808589000 4.34 app=bla
+duration 1457808698000 5.34 app=bla
+duration 1457808799000 3.34 app=bla
+duration 1457808800000 1 app=bla
+
+
